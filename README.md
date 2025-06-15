@@ -24,22 +24,7 @@ This repository includes 4 beginner-friendly Python mini projects that demonstra
 
 ---
 
-### 2️⃣ Web Scraper
-
-**Objective:** Extract information (e.g., headlines) from a news website.
-
-#### 🔧 Features:
-- Designed the web scraper architecture.
-- Implemented methods to fetch and parse web pages.
-- Used libraries like **BeautifulSoup** and **Requests**.
-- Tested the scraper on live data from a sample news site (e.g., `bbc.com`).
-
-#### 📂 Files:
-- `web_scraper.py`
-
----
-
-### 3️⃣ Game Development (Tic-Tac-Toe)
+### 2️⃣ Game Development (Tic-Tac-Toe)
 
 **Objective:** Build a terminal-based Tic-Tac-Toe game using object-oriented programming.
 
@@ -55,7 +40,7 @@ This repository includes 4 beginner-friendly Python mini projects that demonstra
 
 ---
 
-### 4️⃣ Weather API Integration
+### 3️⃣ Weather API Integration
 
 **Objective:** Build a Python program that fetches and displays weather data from an API.
 
@@ -68,6 +53,21 @@ This repository includes 4 beginner-friendly Python mini projects that demonstra
 
 #### 📂 Files:
 - `weatherapi.py`
+
+---
+
+### 4️⃣ Web Scraper
+
+**Objective:** Extract information (e.g., headlines) from a news website.
+
+#### 🔧 Features:
+- Designed the web scraper architecture.
+- Implemented methods to fetch and parse web pages.
+- Used libraries like **BeautifulSoup** and **Requests**.
+- Tested the scraper on live data from a sample news site (e.g., `bbc.com`).
+
+#### 📂 Files:
+- `web_scraper.py`
 
 ---
 
