@@ -32,13 +32,13 @@ Make sure you have Python installed (3.6 or higher recommended).
 ```bash
 git clone https://github.com/your-username/simple-chatbot.git
 cd simple-chatbot
-
+```
 
 2. Install dependencies:
 
 ```bash
 pip install nltk
-
+```
 
 3. (Optional) Download NLTK data:
 
