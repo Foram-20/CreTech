@@ -34,13 +34,13 @@ git clone https://github.com/your-username/simple-chatbot.git
 cd simple-chatbot
 
 
-### Step 2: Install dependencies
+2. Install dependencies:
 
 ```bash
 pip install nltk
 ```
 
-### Step 3: (Optional) Download NLTK data
+3. (Optional) Download NLTK data:
 
 ```python
 import nltk
