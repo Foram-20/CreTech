@@ -67,7 +67,7 @@ This repository includes 4 beginner-friendly Python mini projects that demonstra
 - Tested the integration and handled errors gracefully.
 
 #### 📂 Files:
-- `weather_api.py`
+- `weatherapi.py`
 
 ---
 
@@ -94,8 +94,8 @@ Each project is a standalone script. You can run them like:
 ```bash
 python chatbot.py
 python web_scraper.py
-python tic_tac_toe.py
-python weather_api.py
+python tic_tac_toe_game.py
+python weatherapi.py
 ```
 
 ---
@@ -115,10 +115,3 @@ Prepared for learning purposes based on a structured approach using:
 * Requests
 * Pygame
 * OpenWeatherMap API
-
----
-
-```
-
-Let me know if you want me to include actual sample code blocks inside the README or link to folders for each project.
-```
