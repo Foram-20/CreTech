@@ -38,7 +38,7 @@ cd simple-chatbot
 
 ```bash
 pip install nltk
-```
+
 
 3. (Optional) Download NLTK data:
 
