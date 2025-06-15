@@ -1,4 +1,3 @@
-````markdown
 # 🎮 Tic-Tac-Toe Game (Pygame)
 
 A simple 2-player **Tic-Tac-Toe** game built using Python and **Pygame**. This project is designed based on the provided game architecture requirements, including class-based design, player moves, win-checking logic, and GUI rendering.
@@ -30,9 +29,9 @@ A simple 2-player **Tic-Tac-Toe** game built using Python and **Pygame**. This p
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/tic_tac_toe_game.git
-cd tic_tac_toe_game
-````
+git clone https://github.com/your-username/tic-tac-toe-game.git
+cd tic-tac-toe-game
+```
 
 ### Step 2: Install Dependencies
 
