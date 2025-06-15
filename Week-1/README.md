@@ -97,8 +97,7 @@ simple-chatbot/
 
 (You'll want to add your chosen license here, e.g., MIT License, Apache 2.0, etc.)
 ```
-
+This project is licensed under the MIT License - see the LICENSE file for details.
 ---
 
-✅ **Yes — now it's done, polished, and ready for GitHub!**  
-Let me know if you want help with uploading, `LICENSE`, or `requirements.txt`.
+
