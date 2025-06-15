@@ -88,7 +88,6 @@ simple-chatbot/
 │
 ├── chatbot.py          # Main chatbot script
 ├── README.md           # Project documentation
-└── Screenshot.png      # Visual project guide
 ```
 
 ---
