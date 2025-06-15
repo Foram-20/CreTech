@@ -1,6 +1,6 @@
 # 🎮 Tic-Tac-Toe Game (Pygame)
 
-A simple 2-player **Tic-Tac-Toe** game built using Python and **Pygame**. This project is designed based on the provided game architecture requirements, including class-based design, player moves, win-checking logic, and GUI rendering.
+A simple 2-player **Tic-Tac-Toe** game built using Python and **Pygame**. This project follows a clean architecture with class-based design, player moves, win-checking logic, and GUI rendering — all implemented using Pygame.
 
 ---
 
@@ -14,13 +14,13 @@ A simple 2-player **Tic-Tac-Toe** game built using Python and **Pygame**. This p
 
 ---
 
-## 🧠 Project Requirements (✔️ as per instruction slide)
+## 🧠 Project Architecture
 
-1. ✅ **Design** the game architecture and identify key features  
-2. ✅ **Create a class** with attributes like board, players, and game state  
-3. ✅ **Implement methods** for moves and win checking  
-4. ✅ **Use Pygame** (Python library) for rendering  
-5. ✅ **Test** with real-time play in GUI window  
+1. **Design** the game architecture and identify the key features  
+2. **Create a `Game` class** with attributes like board, players, and game state  
+3. **Implement methods** for making moves, checking wins, and switching turns  
+4. **Use Pygame**, a built-in Python library, for GUI rendering  
+5. **Test the game** with sample player moves and win conditions  
 
 ---
 
@@ -29,8 +29,8 @@ A simple 2-player **Tic-Tac-Toe** game built using Python and **Pygame**. This p
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/tic-tac-toe-game.git
-cd tic-tac-toe-game
+git clone https://github.com/your-username/tic_tac_toe_game.git
+cd tic_tac_toe_game
 ```
 
 ### Step 2: Install Dependencies
@@ -59,7 +59,6 @@ python tic_tac_toe_game.py
 
 * Python 3.x
 * [Pygame](https://www.pygame.org/) — for GUI and event handling
-
 ---
 
 ## 📂 File Structure
@@ -70,14 +69,6 @@ tic_tac_toe_game/
 ├── tic_tac_toe_game.py        # Main game script
 ├── README.md                  # Project documentation
 
-```
-
----
-
-## 🧪 Sample Output
-
-```text
-X wins! (show in the your Terminal)
 ```
 
 The GUI board updates as each player makes a move.
