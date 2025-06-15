@@ -93,9 +93,9 @@ Each project is a standalone script. You can run them like:
 
 ```bash
 python chatbot.py
-python web_scraper.py
 python tic_tac_toe_game.py
 python weatherapi.py
+python web_scraper.py
 ```
 
 ---
