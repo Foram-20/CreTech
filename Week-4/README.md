@@ -1,4 +1,4 @@
-# 🕸️ Web Scraper (News Headlines Extractor)
+# 🕸️ Web Scraper 
 
 This project is a simple Python-based **web scraper** that fetches and parses the latest news headlines from a webpage like **BBC News** using the `requests` and `BeautifulSoup` libraries.
 
